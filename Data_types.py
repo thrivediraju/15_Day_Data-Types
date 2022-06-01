@@ -1,4 +1,4 @@
-""" About Integer Data Type  ""
+""" About Integer Data Type  """
 # print(type(6))
 # print(type(2))
 # print(type(0))
