@@ -4,7 +4,7 @@
 # print(type(0))
 # print(type(-7))
 
-# a=6
+# a=
 # print(a)
 # print('%d'  %a)
 # print('%i'  %a)
