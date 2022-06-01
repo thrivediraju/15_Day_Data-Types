@@ -2,7 +2,7 @@
 # print(type(6))
 # print(type(2))
 # print(type(0))
-# print(type(-7)
+# print(type(-7))
 
 # a=6
 # print(a)
